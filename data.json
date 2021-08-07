@@ -1,0 +1,19 @@
+{
+  "dashboard": true,
+  "application": true,
+  "widgets": false,
+  "ecommerce": false,
+  "components": false,
+ "content": false,
+      "icons": false,
+      "form": false,
+ "table": false,
+"user-profile":false,
+"faq":false,
+"pricing":false,
+"earnings":false,
+"downloads":false,
+"timeline":false,
+"charts":false,
+"maps": false
+}
