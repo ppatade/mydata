@@ -7,7 +7,7 @@
  "content": false,
       "icons": false,
       "form": false,
- "table": false,
+ "table": true,
 "user-profile":false,
 "faq":false,
 "pricing":false,
