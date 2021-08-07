@@ -9,7 +9,7 @@
       "form": false,
  "table": true,
 "user-profile":false,
-"faq":false,
+"faq":true,
 "pricing":false,
 "earnings":false,
 "downloads":false,
